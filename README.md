@@ -1,5 +1,6 @@
-### Hi there 👋
+# 👋 Hi, I'm Deheng Song!
 
+### Astroparticle Physicist | Postdoctoral Researcher at Yukawa Institute for Theoretical Physics, Kyoto University  
 <!--
 **sdh0618/sdh0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
