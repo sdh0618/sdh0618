@@ -1,7 +1,7 @@
 ### Hi there, I'm Deheng Song! 👋
 
 🚀 **Astroparticle Physicist | Dark Matter Researcher | Theoretical Physics Enthusiast**  
-📍 Postdoctoral Researcher @ Yukawa Institute for Theoretical Physics, Kyoto University  
+📍 Postdoctoral Researcher @ Brussels U., IIHE 
 🌌 Exploring the mysteries of dark matter and cosmic gamma-ray emissions  
 🔭 Passionate about astrophysics, high-energy physics, and computational modeling  
 
